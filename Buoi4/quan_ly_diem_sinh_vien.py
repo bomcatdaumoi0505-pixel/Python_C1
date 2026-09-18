@@ -8,7 +8,6 @@ quan_ly_diem = {
 
 quan_ly_diem["Pham Thi D"] = [7.0, 8.0, 7.5]
 
-    
 quan_ly_diem["Tran Thi B"][0] = 7.0
 
 
